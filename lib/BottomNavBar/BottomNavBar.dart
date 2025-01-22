@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:whatsapp/BottomNavBar/CustomClipPath.dart';
 import 'package:whatsapp/Constants/Colors.dart';
 import 'package:whatsapp/Constants/fonts.dart';
 import 'package:whatsapp/Provider/BottomNavBarProvider.dart';
